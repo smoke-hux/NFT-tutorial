@@ -1,0 +1,12 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+0xD91E21e378c48d979BB10802a63be47B633d7D09  this is my NFT CONTRACT ADDRESS
